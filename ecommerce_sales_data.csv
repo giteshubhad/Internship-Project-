@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Customer_ID,Category,Product,Region,Customer_Segment,Quantity,Unit_Price,Discount_Percent,Sales,Cost,Profit,Payment_Method
+ORD0229,2025-01-02,CUST026,Electronics,Headphones,Nagpur,Home Office,3,2378.24,20,5707.78,4607.15,1100.63,Cash on Delivery
+ORD0085,2025-01-03,CUST025,Office,Monitor,Mumbai,Home Office,2,13186.95,5,25055.21,16298.66,8756.55,Credit Card
+ORD0278,2025-01-05,CUST036,Accessories,Smart Watch,Nagpur,Home Office,4,4567.49,0,18269.96,11802.28,6467.68,Cash on Delivery
+ORD0158,2025-01-06,CUST073,Home & Kitchen,Coffee Maker,Pune,Consumer,4,5734.68,10,20644.85,16552.95,4091.9,Credit Card
+ORD0062,2025-01-07,CUST019,Office,Webcam,Pune,Home Office,1,2878.68,5,2734.75,2127.66,607.09,UPI
+ORD0171,2025-01-08,CUST034,Home & Kitchen,Vacuum Cleaner,Nagpur,Home Office,2,9131.58,5,17350.0,12374.66,4975.34,Debit Card
+ORD0227,2025-01-09,CUST019,Home & Kitchen,Air Fryer,Mumbai,Corporate,4,6957.36,0,27829.44,21897.47,5931.97,Cash on Delivery
+ORD0203,2025-01-14,CUST034,Home & Kitchen,Coffee Maker,Nagpur,Home Office,4,5820.69,5,22118.62,16011.06,6107.56,Debit Card
+ORD0108,2025-01-14,CUST070,Home & Kitchen,Air Fryer,Pune,Home Office,4,5956.34,15,20251.56,16587.77,3663.79,UPI
+ORD0091,2025-01-15,CUST031,Home & Kitchen,Mixer,Aurangabad,Corporate,3,4353.91,10,11755.56,9455.37,2300.19,Cash on Delivery
+ORD0110,2025-01-17,CUST025,Home & Kitchen,Air Fryer,Nashik,Consumer,4,5949.75,20,19039.2,11837.1,7202.1,Credit Card
+ORD0065,2025-01-17,CUST042,Accessories,Mouse,Aurangabad,Consumer,1,966.52,20,773.22,523.45,249.77,UPI
+ORD0270,2025-01-19,CUST002,Home & Kitchen,Coffee Maker,Nashik,Corporate,4,5462.36,20,17479.55,11008.24,6471.31,Debit Card
+ORD0125,2025-01-20,CUST036,Accessories,Keyboard,Aurangabad,Corporate,1,1977.58,15,1680.94,1237.98,442.96,Debit Card
+ORD0156,2025-01-21,CUST037,Home & Kitchen,Air Fryer,Mumbai,Consumer,4,6231.14,15,21185.88,16414.24,4771.64,UPI
+ORD0025,2025-01-21,CUST055,Home & Kitchen,Vacuum Cleaner,Pune,Consumer,4,8769.97,0,35079.88,22573.35,12506.53,Cash on Delivery
+ORD0140,2025-01-21,CUST011,Home & Kitchen,Coffee Maker,Aurangabad,Corporate,1,5183.14,20,4146.51,2838.95,1307.56,Debit Card
+ORD0152,2025-01-21,CUST060,Electronics,Tablet,Mumbai,Consumer,3,21673.92,15,55268.5,40993.13,14275.37,UPI
+ORD0061,2025-01-24,CUST060,Home & Kitchen,Vacuum Cleaner,Nagpur,Corporate,3,8278.94,20,19869.46,13821.14,6048.32,UPI
+ORD0042,2025-01-24,CUST004,Home & Kitchen,Air Fryer,Nagpur,Consumer,2,6687.98,0,13375.96,8713.13,4662.83,Debit Card
+ORD0144,2025-01-28,CUST056,Electronics,Headphones,Mumbai,Corporate,3,2658.47,20,6380.33,4610.83,1769.5,Cash on Delivery
+ORD0094,2025-01-28,CUST024,Office,Office Chair,Mumbai,Home Office,3,7800.24,15,19890.61,13992.0,5898.61,Debit Card
+ORD0134,2025-01-29,CUST077,Electronics,Headphones,Pune,Consumer,2,2555.19,5,4854.86,3596.66,1258.2,Debit Card
+ORD0133,2025-01-31,CUST001,Accessories,Mouse,Aurangabad,Home Office,3,845.58,15,2156.23,1767.11,389.12,Cash on Delivery
+ORD0007,2025-02-01,CUST012,Accessories,Smart Watch,Nashik,Corporate,4,5276.03,20,16883.3,11614.07,5269.23,Credit Card
+ORD0063,2025-02-02,CUST006,Home & Kitchen,Coffee Maker,Mumbai,Home Office,2,5335.52,0,10671.04,7723.94,2947.1,Credit Card
+ORD0130,2025-02-04,CUST013,Office,Printer,Aurangabad,Consumer,2,11659.81,5,22153.64,17483.05,4670.59,Credit Card
+ORD0023,2025-02-07,CUST003,Accessories,Power Bank,Aurangabad,Consumer,3,1933.29,10,5219.88,3642.95,1576.93,Credit Card
+ORD0253,2025-02-08,CUST061,Electronics,Laptop,Mumbai,Corporate,3,54614.04,15,139265.8,106301.75,32964.05,Debit Card
+ORD0020,2025-02-10,CUST046,Home & Kitchen,Air Fryer,Aurangabad,Home Office,2,6407.67,20,10252.27,8058.61,2193.66,Credit Card
+ORD0055,2025-02-12,CUST054,Office,Monitor,Nagpur,Home Office,2,13012.98,20,20820.77,14887.52,5933.25,UPI
+ORD0126,2025-02-13,CUST077,Accessories,Power Bank,Nagpur,Home Office,3,1753.82,5,4998.39,3676.61,1321.78,Debit Card
+ORD0084,2025-02-16,CUST016,Accessories,Smart Watch,Pune,Corporate,2,5442.69,5,10341.11,6818.27,3522.84,Credit Card
+ORD0039,2025-02-16,CUST048,Home & Kitchen,Air Fryer,Nagpur,Home Office,2,6998.73,0,13997.46,10043.48,3953.98,UPI
+ORD0186,2025-02-16,CUST001,Office,Office Chair,Nagpur,Home Office,4,8398.21,0,33592.84,21486.79,12106.05,Credit Card
+ORD0295,2025-02-18,CUST001,Electronics,Smartphone,Aurangabad,Home Office,2,29037.19,20,46459.5,30043.53,16415.97,UPI
+ORD0191,2025-02-19,CUST024,Electronics,Laptop,Nagpur,Consumer,1,55643.53,20,44514.82,30745.25,13769.57,Cash on Delivery
+ORD0264,2025-02-20,CUST037,Electronics,Laptop,Nashik,Corporate,4,52264.06,10,188150.62,127948.81,60201.81,Cash on Delivery
+ORD0300,2025-02-20,CUST042,Accessories,Mouse,Pune,Home Office,3,972.73,15,2480.46,1845.7,634.76,Cash on Delivery
+ORD0030,2025-02-21,CUST048,Home & Kitchen,Air Fryer,Aurangabad,Corporate,2,5990.7,0,11981.4,8306.68,3674.72,Debit Card
+ORD0178,2025-02-21,CUST080,Accessories,Keyboard,Pune,Consumer,4,1625.42,20,5201.34,3503.08,1698.26,Debit Card
+ORD0160,2025-02-21,CUST037,Home & Kitchen,Air Fryer,Aurangabad,Corporate,4,6400.58,5,24322.2,17554.11,6768.09,Credit Card
+ORD0006,2025-02-24,CUST020,Office,Printer,Mumbai,Consumer,3,10476.36,10,28286.17,18311.27,9974.9,Credit Card
+ORD0244,2025-02-25,CUST078,Accessories,Smart Watch,Nagpur,Consumer,2,5240.27,15,8908.46,5741.0,3167.46,UPI
+ORD0237,2025-02-27,CUST009,Electronics,Smartphone,Aurangabad,Home Office,1,27476.49,5,26102.67,17720.94,8381.73,Credit Card
+ORD0053,2025-03-01,CUST076,Office,Monitor,Mumbai,Home Office,1,11027.53,15,9373.4,6875.49,2497.91,UPI
+ORD0276,2025-03-03,CUST014,Accessories,Smart Watch,Aurangabad,Consumer,4,5480.95,10,19731.42,13955.55,5775.87,UPI
+ORD0293,2025-03-05,CUST048,Home & Kitchen,Vacuum Cleaner,Aurangabad,Home Office,2,9397.82,5,17855.86,12477.49,5378.37,UPI
+ORD0143,2025-03-07,CUST032,Office,Office Chair,Nagpur,Consumer,3,9245.17,0,27735.51,20349.38,7386.13,UPI
+ORD0041,2025-03-07,CUST033,Home & Kitchen,Coffee Maker,Pune,Corporate,4,5773.39,20,18474.85,13849.7,4625.15,Cash on Delivery
+ORD0288,2025-03-09,CUST064,Office,Monitor,Mumbai,Home Office,1,10800.36,10,9720.32,6822.01,2898.31,Cash on Delivery
+ORD0089,2025-03-09,CUST041,Home & Kitchen,Air Fryer,Pune,Consumer,3,6769.36,5,19292.68,14943.13,4349.55,UPI
+ORD0098,2025-03-10,CUST035,Electronics,Smartphone,Nagpur,Home Office,2,30780.01,10,55404.02,36294.51,19109.51,UPI
+ORD0024,2025-03-12,CUST014,Home & Kitchen,Air Fryer,Pune,Corporate,2,5868.91,20,9390.26,7284.33,2105.93,UPI
+ORD0078,2025-03-13,CUST052,Home & Kitchen,Coffee Maker,Aurangabad,Home Office,4,5094.21,5,19358.0,15220.25,4137.75,Cash on Delivery
+ORD0068,2025-03-14,CUST041,Accessories,Keyboard,Nashik,Home Office,3,1800.81,15,4592.07,3108.46,1483.61,UPI
+ORD0294,2025-03-16,CUST025,Office,Office Chair,Nagpur,Home Office,1,8646.32,10,7781.69,5840.14,1941.55,UPI
+ORD0219,2025-03-16,CUST037,Home & Kitchen,Air Fryer,Aurangabad,Corporate,4,7119.91,10,25631.68,19024.75,6606.93,Cash on Delivery
+ORD0148,2025-03-18,CUST050,Home & Kitchen,Mixer,Pune,Corporate,4,4218.13,20,13498.02,8460.51,5037.51,Cash on Delivery
+ORD0136,2025-03-19,CUST044,Home & Kitchen,Air Fryer,Nashik,Corporate,2,7136.76,0,14273.52,10625.34,3648.18,Cash on Delivery
+ORD0257,2025-03-23,CUST020,Home & Kitchen,Vacuum Cleaner,Pune,Home Office,2,9020.16,15,15334.27,12008.15,3326.12,UPI
+ORD0113,2025-03-25,CUST037,Accessories,Mouse,Aurangabad,Consumer,4,954.76,20,3055.23,2094.66,960.57,Credit Card
+ORD0127,2025-03-26,CUST037,Electronics,Laptop,Nagpur,Consumer,4,52453.97,20,167852.7,113396.79,54455.91,Debit Card
+ORD0182,2025-03-26,CUST078,Home & Kitchen,Coffee Maker,Nagpur,Consumer,4,5934.53,0,23738.12,16016.77,7721.35,Credit Card
+ORD0233,2025-03-28,CUST040,Home & Kitchen,Air Fryer,Nagpur,Consumer,1,6379.09,0,6379.09,5114.48,1264.61,Cash on Delivery
+ORD0231,2025-03-29,CUST033,Office,Office Chair,Mumbai,Home Office,3,8436.02,0,25308.06,16476.14,8831.92,Debit Card
+ORD0009,2025-03-30,CUST037,Office,Webcam,Nagpur,Home Office,4,3205.78,20,10258.5,7992.77,2265.73,Credit Card
+ORD0018,2025-04-03,CUST054,Home & Kitchen,Air Fryer,Mumbai,Corporate,1,6894.88,20,5515.9,3620.67,1895.23,Debit Card
+ORD0168,2025-04-03,CUST059,Office,Webcam,Nagpur,Corporate,2,2700.68,20,4321.09,2724.28,1596.81,Cash on Delivery
+ORD0099,2025-04-04,CUST056,Home & Kitchen,Vacuum Cleaner,Nashik,Consumer,1,8249.36,0,8249.36,5985.94,2263.42,Debit Card
+ORD0273,2025-04-06,CUST077,Home & Kitchen,Vacuum Cleaner,Mumbai,Corporate,2,8877.87,10,15980.17,12404.22,3575.95,UPI
+ORD0268,2025-04-09,CUST047,Home & Kitchen,Air Fryer,Nashik,Consumer,4,6808.31,0,27233.24,18086.5,9146.74,Cash on Delivery
+ORD0272,2025-04-11,CUST012,Electronics,Tablet,Nagpur,Home Office,4,23896.32,20,76468.22,59038.29,17429.93,UPI
+ORD0289,2025-04-12,CUST031,Office,Office Chair,Nagpur,Home Office,2,7742.17,0,15484.34,10377.02,5107.32,Debit Card
+ORD0263,2025-04-15,CUST032,Electronics,Laptop,Nagpur,Corporate,4,52079.83,0,208319.32,138838.9,69480.42,Debit Card
+ORD0230,2025-04-15,CUST030,Accessories,Power Bank,Nashik,Home Office,2,1805.25,10,3249.45,2262.33,987.12,UPI
+ORD0299,2025-04-17,CUST033,Home & Kitchen,Mixer,Nashik,Corporate,1,4749.03,10,4274.13,3445.8,828.33,UPI
+ORD0033,2025-04-17,CUST011,Office,Printer,Nashik,Consumer,2,10953.48,10,19716.26,14473.98,5242.28,UPI
+ORD0135,2025-04-17,CUST023,Accessories,Smart Watch,Pune,Consumer,4,4983.84,0,19935.36,13857.07,6078.29,Cash on Delivery
+ORD0204,2025-04-19,CUST066,Electronics,Tablet,Mumbai,Corporate,2,21462.79,0,42925.58,31906.93,11018.65,Cash on Delivery
+ORD0147,2025-04-21,CUST075,Office,Printer,Pune,Home Office,3,11287.75,5,32170.09,22856.32,9313.77,Debit Card
+ORD0095,2025-04-21,CUST039,Office,Printer,Nagpur,Home Office,1,11132.81,5,10576.17,7793.31,2782.86,UPI
+ORD0232,2025-04-21,CUST008,Home & Kitchen,Air Fryer,Mumbai,Consumer,4,6736.97,0,26947.88,16749.53,10198.35,Debit Card
+ORD0269,2025-04-22,CUST042,Accessories,Power Bank,Nagpur,Home Office,4,1675.91,15,5698.09,3740.9,1957.19,Credit Card
+ORD0004,2025-04-22,CUST019,Office,Webcam,Nashik,Home Office,1,3211.94,15,2730.15,2222.25,507.9,Credit Card
+ORD0005,2025-04-24,CUST013,Accessories,Mouse,Pune,Consumer,4,870.08,15,2958.27,2235.65,722.62,Cash on Delivery
+ORD0195,2025-04-26,CUST014,Office,Printer,Nagpur,Corporate,1,11776.27,15,10009.83,7634.88,2374.95,Cash on Delivery
+ORD0234,2025-04-28,CUST014,Accessories,Keyboard,Mumbai,Home Office,1,1947.91,15,1655.72,1287.39,368.33,UPI
+ORD0107,2025-04-30,CUST046,Office,Webcam,Nashik,Consumer,4,3087.53,15,10497.6,8333.75,2163.85,Cash on Delivery
+ORD0282,2025-05-02,CUST035,Electronics,Laptop,Nagpur,Home Office,4,54527.2,0,218108.8,159363.74,58745.06,Credit Card
+ORD0164,2025-05-02,CUST079,Office,Webcam,Aurangabad,Corporate,1,2770.11,0,2770.11,2213.18,556.93,Credit Card
+ORD0199,2025-05-02,CUST029,Accessories,Smart Watch,Nashik,Corporate,4,4603.97,20,14732.7,11741.86,2990.84,Cash on Delivery
+ORD0054,2025-05-03,CUST025,Electronics,Laptop,Aurangabad,Consumer,2,60259.86,20,96415.78,72954.73,23461.05,Credit Card
+ORD0017,2025-05-03,CUST021,Home & Kitchen,Mixer,Aurangabad,Home Office,1,4393.95,20,3515.16,2430.33,1084.83,Cash on Delivery
+ORD0059,2025-05-03,CUST012,Accessories,Smart Watch,Mumbai,Corporate,2,5161.75,10,9291.15,6286.12,3005.03,Debit Card
+ORD0235,2025-05-03,CUST017,Electronics,Headphones,Nagpur,Corporate,1,2674.08,15,2272.97,1755.37,517.6,Credit Card
+ORD0051,2025-05-05,CUST046,Electronics,Smartphone,Aurangabad,Corporate,3,31243.32,20,74983.97,47072.65,27911.32,UPI
+ORD0258,2025-05-10,CUST078,Home & Kitchen,Mixer,Mumbai,Consumer,1,4793.91,5,4554.21,3086.31,1467.9,Debit Card
+ORD0274,2025-05-10,CUST067,Home & Kitchen,Mixer,Nagpur,Corporate,4,4094.75,10,14741.1,9833.81,4907.29,Debit Card
+ORD0259,2025-05-10,CUST076,Electronics,Tablet,Mumbai,Home Office,4,22238.15,5,84504.97,63585.62,20919.35,Credit Card
+ORD0213,2025-05-11,CUST080,Office,Monitor,Nashik,Corporate,4,10853.28,0,43413.12,34823.6,8589.52,Credit Card
+ORD0121,2025-05-13,CUST009,Home & Kitchen,Vacuum Cleaner,Aurangabad,Corporate,3,8463.71,15,21582.46,15545.61,6036.85,UPI
+ORD0028,2025-05-14,CUST012,Electronics,Tablet,Nashik,Consumer,4,22790.02,15,77486.07,63216.96,14269.11,Credit Card
+ORD0222,2025-05-14,CUST065,Accessories,Smart Watch,Nashik,Home Office,2,4848.1,20,7756.96,5933.67,1823.29,Debit Card
+ORD0189,2025-05-15,CUST075,Home & Kitchen,Mixer,Pune,Corporate,4,4900.6,5,18622.28,14191.24,4431.04,Credit Card
+ORD0114,2025-05-17,CUST079,Office,Office Chair,Pune,Consumer,3,8378.12,10,22620.92,17030.23,5590.69,Cash on Delivery
+ORD0069,2025-05-18,CUST027,Home & Kitchen,Vacuum Cleaner,Pune,Home Office,4,8913.63,5,33871.79,22457.8,11413.99,Debit Card
+ORD0153,2025-05-18,CUST005,Home & Kitchen,Air Fryer,Pune,Consumer,2,6467.36,20,10347.78,7410.31,2937.47,Debit Card
+ORD0275,2025-05-20,CUST027,Accessories,Mouse,Nashik,Home Office,4,937.35,10,3374.46,2714.64,659.82,Debit Card
+ORD0102,2025-05-22,CUST002,Office,Office Chair,Aurangabad,Consumer,3,9011.37,5,25682.4,19952.43,5729.97,Credit Card
+ORD0266,2025-05-22,CUST036,Office,Webcam,Nashik,Home Office,1,2810.74,5,2670.2,1662.87,1007.33,UPI
+ORD0240,2025-05-22,CUST025,Electronics,Laptop,Pune,Home Office,3,50192.77,10,135520.48,97957.39,37563.09,Cash on Delivery
+ORD0016,2025-05-23,CUST072,Accessories,Mouse,Mumbai,Consumer,1,813.58,20,650.86,520.08,130.78,Credit Card
+ORD0128,2025-05-23,CUST054,Office,Monitor,Pune,Home Office,2,12619.55,15,21453.23,15882.63,5570.6,Credit Card
+ORD0129,2025-05-24,CUST065,Home & Kitchen,Vacuum Cleaner,Nashik,Home Office,2,8755.5,20,14008.8,11031.87,2976.93,Credit Card
+ORD0225,2025-05-26,CUST006,Home & Kitchen,Vacuum Cleaner,Nagpur,Corporate,4,8474.06,15,28811.8,18042.9,10768.9,Debit Card
+ORD0138,2025-05-26,CUST053,Electronics,Laptop,Pune,Home Office,1,52093.21,5,49488.55,33532.63,15955.92,Debit Card
+ORD0183,2025-05-28,CUST077,Home & Kitchen,Mixer,Nagpur,Corporate,4,4611.78,0,18447.12,11488.43,6958.69,Credit Card
+ORD0037,2025-05-29,CUST022,Electronics,Headphones,Pune,Home Office,3,2694.86,5,7680.35,4873.12,2807.23,Credit Card
+ORD0076,2025-05-30,CUST039,Home & Kitchen,Air Fryer,Aurangabad,Corporate,1,6918.15,20,5534.52,3444.18,2090.34,Debit Card
+ORD0031,2025-05-31,CUST029,Electronics,Laptop,Mumbai,Consumer,1,53443.13,10,48098.82,30855.06,17243.76,Credit Card
+ORD0157,2025-06-01,CUST028,Accessories,Mouse,Mumbai,Home Office,4,868.87,15,2954.16,1994.01,960.15,Credit Card
+ORD0196,2025-06-02,CUST040,Electronics,Smartphone,Nagpur,Corporate,1,28183.25,5,26774.09,21373.08,5401.01,UPI
+ORD0224,2025-06-02,CUST015,Electronics,Laptop,Aurangabad,Consumer,4,56751.75,20,181605.6,143810.43,37795.17,Cash on Delivery
+ORD0187,2025-06-03,CUST004,Home & Kitchen,Air Fryer,Aurangabad,Corporate,4,6769.16,5,25722.81,17427.08,8295.73,UPI
+ORD0123,2025-06-04,CUST034,Accessories,Power Bank,Pune,Consumer,1,1933.01,10,1739.71,1399.28,340.43,Credit Card
+ORD0292,2025-06-04,CUST031,Electronics,Laptop,Nagpur,Corporate,2,50131.24,15,85223.11,62350.99,22872.12,Cash on Delivery
+ORD0217,2025-06-04,CUST018,Home & Kitchen,Air Fryer,Pune,Consumer,4,6072.38,15,20646.09,12851.71,7794.38,Credit Card
+ORD0208,2025-06-05,CUST021,Home & Kitchen,Vacuum Cleaner,Pune,Home Office,3,8843.64,0,26530.92,19562.28,6968.64,UPI
+ORD0256,2025-06-06,CUST060,Office,Printer,Aurangabad,Consumer,3,12000.01,5,34200.03,22295.41,11904.62,Debit Card
+ORD0141,2025-06-07,CUST019,Home & Kitchen,Vacuum Cleaner,Aurangabad,Corporate,2,8816.31,0,17632.62,11200.55,6432.07,Cash on Delivery
+ORD0265,2025-06-07,CUST003,Electronics,Tablet,Nagpur,Consumer,2,20369.69,10,36665.44,25149.73,11515.71,Credit Card
+ORD0154,2025-06-09,CUST057,Home & Kitchen,Air Fryer,Mumbai,Home Office,1,6952.26,0,6952.26,4656.23,2296.03,Credit Card
+ORD0205,2025-06-10,CUST072,Office,Webcam,Mumbai,Home Office,1,2843.22,20,2274.58,1578.75,695.83,UPI
+ORD0243,2025-06-13,CUST077,Home & Kitchen,Coffee Maker,Nashik,Home Office,2,5180.1,15,8806.17,6409.58,2396.59,UPI
+ORD0044,2025-06-14,CUST074,Electronics,Headphones,Nashik,Home Office,4,2321.54,10,8357.54,5935.49,2422.05,Cash on Delivery
+ORD0021,2025-06-14,CUST079,Accessories,Smart Watch,Mumbai,Home Office,3,4939.9,15,12596.74,9965.93,2630.81,Debit Card
+ORD0188,2025-06-14,CUST076,Electronics,Laptop,Nagpur,Home Office,2,50459.94,10,90827.89,67426.59,23401.3,Cash on Delivery
+ORD0173,2025-06-15,CUST028,Electronics,Laptop,Nagpur,Home Office,3,50354.23,20,120850.15,96936.76,23913.39,Cash on Delivery
+ORD0029,2025-06-15,CUST021,Home & Kitchen,Mixer,Nashik,Home Office,1,4333.3,10,3899.97,2939.95,960.02,UPI
+ORD0242,2025-06-16,CUST025,Home & Kitchen,Air Fryer,Mumbai,Home Office,4,6403.34,0,25613.36,15979.08,9634.28,Cash on Delivery
+ORD0052,2025-06-21,CUST061,Office,Webcam,Nashik,Home Office,3,2713.97,5,7734.81,6185.92,1548.89,Credit Card
+ORD0086,2025-06-23,CUST060,Accessories,Mouse,Nagpur,Corporate,4,988.74,0,3954.96,3045.12,909.84,UPI
+ORD0163,2025-06-23,CUST007,Office,Printer,Nashik,Consumer,2,10163.62,5,19310.88,14936.15,4374.73,Credit Card
+ORD0116,2025-06-24,CUST073,Office,Office Chair,Aurangabad,Home Office,4,8958.96,0,35835.84,24661.06,11174.78,UPI
+ORD0137,2025-06-25,CUST030,Accessories,Smart Watch,Nashik,Consumer,1,4670.79,15,3970.17,3200.43,769.74,Credit Card
+ORD0014,2025-06-28,CUST008,Accessories,Keyboard,Pune,Home Office,2,1686.95,20,2699.12,1864.38,834.74,Debit Card
+ORD0214,2025-06-29,CUST045,Office,Monitor,Pune,Consumer,4,11107.75,5,42209.45,34128.48,8080.97,Credit Card
+ORD0103,2025-06-29,CUST001,Electronics,Tablet,Pune,Home Office,1,21372.98,5,20304.33,12873.91,7430.42,Debit Card
+ORD0092,2025-06-29,CUST069,Office,Webcam,Nashik,Home Office,1,2860.59,5,2717.56,1786.34,931.22,UPI
+ORD0216,2025-06-30,CUST075,Accessories,Mouse,Nashik,Corporate,3,834.38,20,2002.51,1574.39,428.12,Cash on Delivery
+ORD0218,2025-07-01,CUST007,Home & Kitchen,Mixer,Nashik,Home Office,4,4638.07,0,18552.28,12764.55,5787.73,UPI
+ORD0166,2025-07-02,CUST060,Home & Kitchen,Mixer,Nashik,Home Office,1,4917.85,5,4671.96,3614.3,1057.66,Cash on Delivery
+ORD0131,2025-07-02,CUST062,Electronics,Smartphone,Pune,Consumer,3,28957.66,10,78185.68,55455.04,22730.64,Cash on Delivery
+ORD0176,2025-07-03,CUST027,Electronics,Smartphone,Aurangabad,Corporate,1,28841.98,0,28841.98,18740.03,10101.95,Credit Card
+ORD0064,2025-07-04,CUST061,Accessories,Mouse,Aurangabad,Home Office,1,955.54,5,907.76,673.17,234.59,UPI
+ORD0043,2025-07-05,CUST036,Home & Kitchen,Air Fryer,Nashik,Consumer,2,6021.98,0,12043.96,9793.35,2250.61,UPI
+ORD0036,2025-07-06,CUST018,Accessories,Power Bank,Pune,Corporate,1,1963.54,5,1865.36,1254.83,610.53,Credit Card
+ORD0151,2025-07-06,CUST052,Electronics,Laptop,Nashik,Corporate,3,51108.33,15,130326.24,104372.01,25954.23,Cash on Delivery
+ORD0048,2025-07-06,CUST025,Accessories,Power Bank,Nagpur,Corporate,4,1799.93,0,7199.72,4855.89,2343.83,UPI
+ORD0177,2025-07-07,CUST013,Office,Printer,Aurangabad,Consumer,1,11326.31,5,10759.99,7764.8,2995.19,Credit Card
+ORD0060,2025-07-09,CUST017,Home & Kitchen,Vacuum Cleaner,Pune,Consumer,3,8581.02,0,25743.06,20277.76,5465.3,Debit Card
+ORD0081,2025-07-10,CUST027,Home & Kitchen,Mixer,Nagpur,Home Office,2,4171.53,15,7091.6,5641.5,1450.1,Cash on Delivery
+ORD0228,2025-07-10,CUST048,Office,Printer,Nashik,Corporate,2,11571.38,5,21985.62,18024.72,3960.9,Cash on Delivery
+ORD0287,2025-07-12,CUST075,Electronics,Laptop,Nagpur,Home Office,4,55190.28,10,198685.01,131329.56,67355.45,Cash on Delivery
+ORD0070,2025-07-16,CUST009,Home & Kitchen,Coffee Maker,Mumbai,Corporate,3,5913.62,5,16853.82,13208.41,3645.41,Debit Card
+ORD0073,2025-07-21,CUST064,Electronics,Laptop,Nagpur,Consumer,1,59502.23,15,50576.9,35090.02,15486.88,Debit Card
+ORD0179,2025-07-23,CUST022,Home & Kitchen,Vacuum Cleaner,Pune,Home Office,4,8788.74,5,33397.21,21636.25,11760.96,Credit Card
+ORD0226,2025-07-25,CUST030,Office,Monitor,Nagpur,Home Office,4,12707.31,0,50829.24,37056.17,13773.07,UPI
+ORD0056,2025-07-26,CUST017,Electronics,Smartphone,Mumbai,Home Office,3,29117.86,15,74250.54,58528.25,15722.29,UPI
+ORD0239,2025-07-26,CUST008,Accessories,Smart Watch,Pune,Consumer,2,4566.86,10,8220.35,5139.2,3081.15,Cash on Delivery
+ORD0286,2025-07-27,CUST004,Electronics,Laptop,Aurangabad,Home Office,1,54129.23,15,46009.85,34615.28,11394.57,Credit Card
+ORD0170,2025-07-30,CUST010,Electronics,Tablet,Aurangabad,Home Office,4,20013.08,15,68044.47,50155.6,17888.87,Debit Card
+ORD0026,2025-07-30,CUST013,Office,Printer,Nashik,Home Office,1,11782.45,5,11193.33,7804.0,3389.33,Credit Card
+ORD0167,2025-07-31,CUST045,Office,Webcam,Mumbai,Home Office,4,2821.44,5,10721.47,8750.96,1970.51,Credit Card
+ORD0297,2025-08-01,CUST017,Home & Kitchen,Mixer,Pune,Corporate,1,4734.4,0,4734.4,3559.98,1174.42,Debit Card
+ORD0174,2025-08-01,CUST018,Office,Printer,Mumbai,Corporate,3,11458.56,20,27500.54,18691.9,8808.64,Credit Card
+ORD0165,2025-08-01,CUST052,Home & Kitchen,Vacuum Cleaner,Aurangabad,Consumer,1,9498.23,5,9023.32,7237.54,1785.78,UPI
+ORD0248,2025-08-01,CUST045,Office,Office Chair,Nashik,Corporate,2,9178.38,10,16521.08,13402.87,3118.21,Debit Card
+ORD0066,2025-08-02,CUST065,Home & Kitchen,Mixer,Mumbai,Corporate,3,4738.91,0,14216.73,9926.75,4289.98,Debit Card
+ORD0088,2025-08-03,CUST011,Home & Kitchen,Mixer,Mumbai,Corporate,4,4678.95,5,17780.01,14174.55,3605.46,UPI
+ORD0206,2025-08-03,CUST021,Home & Kitchen,Coffee Maker,Aurangabad,Home Office,2,6035.08,15,10259.64,6646.15,3613.49,UPI
+ORD0296,2025-08-03,CUST073,Accessories,Keyboard,Nagpur,Consumer,2,1842.92,0,3685.84,2687.92,997.92,UPI
+ORD0145,2025-08-03,CUST043,Office,Printer,Pune,Home Office,1,10351.07,0,10351.07,6547.59,3803.48,Cash on Delivery
+ORD0211,2025-08-04,CUST023,Home & Kitchen,Air Fryer,Mumbai,Home Office,2,6735.6,15,11450.52,8836.62,2613.9,Cash on Delivery
+ORD0124,2025-08-05,CUST049,Office,Office Chair,Mumbai,Home Office,1,9046.71,20,7237.37,4790.93,2446.44,Credit Card
+ORD0238,2025-08-05,CUST031,Office,Webcam,Nagpur,Corporate,1,3168.97,15,2693.62,1694.36,999.26,Debit Card
+ORD0252,2025-08-05,CUST057,Electronics,Tablet,Pune,Consumer,2,20549.28,10,36988.7,28865.83,8122.87,Credit Card
+ORD0149,2025-08-06,CUST025,Electronics,Tablet,Pune,Home Office,1,21115.28,5,20059.52,14082.77,5976.75,Credit Card
+ORD0236,2025-08-07,CUST036,Accessories,Power Bank,Nagpur,Home Office,2,1813.98,10,3265.16,2240.9,1024.26,Cash on Delivery
+ORD0072,2025-08-08,CUST068,Accessories,Smart Watch,Nashik,Corporate,2,4949.99,0,9899.98,6833.83,3066.15,Cash on Delivery
+ORD0111,2025-08-08,CUST045,Accessories,Power Bank,Nagpur,Corporate,1,1710.77,15,1454.15,1169.84,284.31,Debit Card
+ORD0011,2025-08-09,CUST044,Home & Kitchen,Air Fryer,Nashik,Consumer,1,6293.32,20,5034.66,3644.88,1389.78,Credit Card
+ORD0194,2025-08-10,CUST002,Electronics,Laptop,Pune,Home Office,2,56357.38,15,95807.55,77209.9,18597.65,Credit Card
+ORD0251,2025-08-10,CUST027,Home & Kitchen,Coffee Maker,Nagpur,Home Office,2,4996.47,0,9992.94,6344.89,3648.05,Cash on Delivery
+ORD0271,2025-08-12,CUST023,Home & Kitchen,Vacuum Cleaner,Pune,Home Office,1,8107.05,5,7701.7,5638.69,2063.01,Debit Card
+ORD0207,2025-08-14,CUST062,Accessories,Smart Watch,Pune,Home Office,2,5310.83,10,9559.49,6330.6,3228.89,UPI
+ORD0159,2025-08-14,CUST021,Accessories,Power Bank,Nashik,Home Office,1,1696.04,15,1441.63,1043.04,398.59,Debit Card
+ORD0027,2025-08-14,CUST068,Home & Kitchen,Air Fryer,Nashik,Consumer,1,6385.56,20,5108.45,3675.49,1432.96,Cash on Delivery
+ORD0083,2025-08-18,CUST018,Office,Webcam,Aurangabad,Corporate,4,2983.64,0,11934.56,9439.92,2494.64,UPI
+ORD0008,2025-08-20,CUST067,Home & Kitchen,Air Fryer,Mumbai,Consumer,3,6335.25,15,16154.89,10386.45,5768.44,Cash on Delivery
+ORD0075,2025-08-21,CUST073,Home & Kitchen,Vacuum Cleaner,Pune,Home Office,1,9624.43,0,9624.43,7227.06,2397.37,UPI
+ORD0279,2025-08-22,CUST017,Electronics,Headphones,Nagpur,Home Office,2,2645.36,0,5290.72,3430.54,1860.18,Cash on Delivery
+ORD0071,2025-08-24,CUST077,Office,Monitor,Nagpur,Home Office,1,11007.7,20,8806.16,6149.63,2656.53,Credit Card
+ORD0096,2025-08-26,CUST014,Accessories,Smart Watch,Nashik,Home Office,3,5447.45,10,14708.11,11583.38,3124.73,Debit Card
+ORD0139,2025-08-29,CUST018,Electronics,Laptop,Nagpur,Consumer,1,60467.75,15,51397.59,33711.56,17686.03,Cash on Delivery
+ORD0250,2025-09-01,CUST039,Accessories,Smart Watch,Mumbai,Home Office,4,4510.45,10,16237.62,11107.36,5130.26,Cash on Delivery
+ORD0019,2025-09-02,CUST079,Office,Webcam,Aurangabad,Home Office,1,2973.84,5,2825.15,2097.93,727.22,Credit Card
+ORD0212,2025-09-04,CUST006,Electronics,Headphones,Pune,Consumer,3,2709.96,20,6503.9,5267.95,1235.95,Credit Card
+ORD0012,2025-09-04,CUST027,Home & Kitchen,Coffee Maker,Nashik,Consumer,2,5453.31,20,8725.3,6603.01,2122.29,Credit Card
+ORD0283,2025-09-04,CUST067,Office,Office Chair,Nagpur,Corporate,1,7928.22,15,6738.99,4948.98,1790.01,Credit Card
+ORD0046,2025-09-08,CUST009,Office,Printer,Nashik,Corporate,3,11387.43,5,32454.18,23794.99,8659.19,UPI
+ORD0169,2025-09-08,CUST012,Electronics,Tablet,Mumbai,Home Office,3,24139.32,5,68797.06,47520.79,21276.27,UPI
+ORD0202,2025-09-08,CUST044,Accessories,Smart Watch,Mumbai,Corporate,4,5271.74,20,16869.57,11542.97,5326.6,Cash on Delivery
+ORD0093,2025-09-12,CUST028,Electronics,Smartphone,Mumbai,Consumer,2,29884.28,15,50803.28,34442.56,16360.72,Cash on Delivery
+ORD0181,2025-09-18,CUST047,Accessories,Keyboard,Nagpur,Home Office,2,1893.12,5,3596.93,2274.08,1322.85,Credit Card
+ORD0245,2025-09-19,CUST072,Home & Kitchen,Mixer,Nagpur,Home Office,4,4354.64,15,14805.78,11071.58,3734.2,Cash on Delivery
+ORD0097,2025-09-20,CUST032,Home & Kitchen,Air Fryer,Nagpur,Corporate,4,6492.29,5,24670.7,17201.63,7469.07,Debit Card
+ORD0192,2025-09-22,CUST053,Home & Kitchen,Mixer,Nashik,Home Office,3,4889.22,20,11734.13,8328.2,3405.93,Cash on Delivery
+ORD0267,2025-09-23,CUST075,Office,Printer,Pune,Consumer,2,10378.52,15,17643.48,13653.29,3990.19,Credit Card
+ORD0067,2025-09-25,CUST071,Home & Kitchen,Mixer,Nagpur,Home Office,3,4303.34,0,12910.02,8221.1,4688.92,Debit Card
+ORD0190,2025-09-27,CUST035,Home & Kitchen,Mixer,Aurangabad,Home Office,2,4107.4,5,7804.06,6349.47,1454.59,Debit Card
+ORD0161,2025-09-29,CUST032,Office,Office Chair,Mumbai,Consumer,1,9247.48,20,7397.98,5784.72,1613.26,Debit Card
+ORD0150,2025-10-01,CUST073,Home & Kitchen,Mixer,Aurangabad,Home Office,1,4510.86,5,4285.32,3441.15,844.17,Cash on Delivery
+ORD0087,2025-10-01,CUST055,Accessories,Power Bank,Pune,Consumer,3,1685.77,0,5057.31,3439.66,1617.65,Credit Card
+ORD0038,2025-10-01,CUST031,Home & Kitchen,Air Fryer,Nagpur,Consumer,1,6818.51,5,6477.58,4332.05,2145.53,Cash on Delivery
+ORD0175,2025-10-03,CUST025,Home & Kitchen,Air Fryer,Nashik,Corporate,3,5961.43,10,16095.86,13082.22,3013.64,UPI
+ORD0255,2025-10-04,CUST014,Home & Kitchen,Mixer,Mumbai,Corporate,2,4085.55,10,7353.99,4953.59,2400.4,Debit Card
+ORD0119,2025-10-04,CUST066,Electronics,Laptop,Nashik,Consumer,4,51808.11,10,186509.2,128176.45,58332.75,UPI
+ORD0209,2025-10-04,CUST063,Office,Webcam,Nagpur,Consumer,4,3184.94,5,12102.77,9570.03,2532.74,UPI
+ORD0015,2025-10-08,CUST035,Electronics,Headphones,Nagpur,Home Office,4,2562.96,0,10251.84,6868.45,3383.39,Debit Card
+ORD0284,2025-10-09,CUST013,Office,Office Chair,Nagpur,Corporate,2,7700.39,15,13090.66,8282.31,4808.35,Debit Card
+ORD0082,2025-10-13,CUST064,Accessories,Smart Watch,Nashik,Corporate,1,4643.38,5,4411.21,3102.7,1308.51,Credit Card
+ORD0058,2025-10-13,CUST068,Accessories,Keyboard,Nagpur,Corporate,3,1848.14,5,5267.2,3373.56,1893.64,UPI
+ORD0032,2025-10-13,CUST034,Office,Monitor,Aurangabad,Consumer,3,11512.09,15,29355.83,20726.87,8628.96,Cash on Delivery
+ORD0162,2025-10-17,CUST001,Home & Kitchen,Coffee Maker,Mumbai,Home Office,1,4969.05,15,4223.69,3044.93,1178.76,Credit Card
+ORD0285,2025-10-17,CUST080,Electronics,Laptop,Mumbai,Corporate,3,51926.82,10,140202.41,99058.19,41144.22,Cash on Delivery
+ORD0117,2025-10-18,CUST019,Home & Kitchen,Vacuum Cleaner,Nashik,Home Office,4,9896.6,0,39586.4,31359.1,8227.3,UPI
+ORD0298,2025-10-18,CUST048,Electronics,Tablet,Nagpur,Consumer,1,21809.98,5,20719.48,15126.15,5593.33,UPI
+ORD0241,2025-10-18,CUST015,Accessories,Smart Watch,Mumbai,Home Office,4,5412.99,5,20569.36,15599.01,4970.35,Cash on Delivery
+ORD0109,2025-10-18,CUST058,Home & Kitchen,Mixer,Pune,Corporate,3,4065.4,20,9756.96,7575.31,2181.65,UPI
+ORD0193,2025-10-19,CUST027,Office,Webcam,Pune,Consumer,4,3281.6,5,12470.08,9636.3,2833.78,UPI
+ORD0045,2025-10-20,CUST068,Electronics,Tablet,Mumbai,Consumer,3,22930.07,0,68790.21,52931.18,15859.03,Cash on Delivery
+ORD0013,2025-10-20,CUST052,Electronics,Tablet,Nagpur,Consumer,3,20559.44,5,58594.4,39836.38,18758.02,Debit Card
+ORD0104,2025-10-21,CUST069,Electronics,Laptop,Aurangabad,Consumer,4,56738.61,10,204259.0,138098.61,66160.39,Debit Card
+ORD0101,2025-10-21,CUST003,Office,Webcam,Aurangabad,Corporate,1,3054.46,15,2596.29,1768.08,828.21,Credit Card
+ORD0115,2025-10-23,CUST015,Accessories,Smart Watch,Pune,Consumer,1,5231.22,10,4708.1,3785.04,923.06,Credit Card
+ORD0105,2025-10-24,CUST072,Electronics,Tablet,Pune,Corporate,4,22392.33,10,80612.39,63545.4,17066.99,UPI
+ORD0201,2025-10-25,CUST038,Home & Kitchen,Air Fryer,Pune,Home Office,1,6835.32,20,5468.26,3715.38,1752.88,Credit Card
+ORD0200,2025-10-25,CUST062,Electronics,Laptop,Pune,Consumer,4,52908.41,15,179888.59,141446.97,38441.62,Credit Card
+ORD0122,2025-10-26,CUST061,Office,Monitor,Mumbai,Corporate,3,12281.38,15,31317.52,24379.65,6937.87,Debit Card
+ORD0247,2025-10-29,CUST024,Home & Kitchen,Air Fryer,Aurangabad,Corporate,2,5860.55,0,11721.1,9376.22,2344.88,Credit Card
+ORD0281,2025-10-29,CUST042,Office,Office Chair,Aurangabad,Consumer,1,8080.98,5,7676.93,5918.65,1758.28,UPI
+ORD0254,2025-10-30,CUST028,Office,Printer,Nashik,Corporate,3,10852.81,5,30930.51,24823.17,6107.34,Cash on Delivery
+ORD0262,2025-10-30,CUST025,Electronics,Tablet,Mumbai,Home Office,4,20482.45,0,81929.8,57021.86,24907.94,Cash on Delivery
+ORD0001,2025-10-31,CUST042,Office,Webcam,Pune,Consumer,2,3197.07,5,6074.43,3947.51,2126.92,Credit Card
+ORD0120,2025-11-01,CUST067,Electronics,Laptop,Nagpur,Home Office,4,56435.66,0,225742.64,160696.59,65046.05,UPI
+ORD0057,2025-11-02,CUST074,Home & Kitchen,Coffee Maker,Pune,Home Office,3,5202.36,20,12485.66,10077.3,2408.36,Debit Card
+ORD0040,2025-11-02,CUST019,Electronics,Smartphone,Nashik,Consumer,1,31311.88,15,26615.1,18431.45,8183.65,Cash on Delivery
+ORD0210,2025-11-02,CUST052,Office,Monitor,Nagpur,Consumer,4,13159.62,15,44742.71,33005.61,11737.1,Cash on Delivery
+ORD0215,2025-11-04,CUST076,Office,Monitor,Pune,Home Office,2,12931.0,15,21982.7,17921.64,4061.06,Credit Card
+ORD0100,2025-11-04,CUST045,Home & Kitchen,Coffee Maker,Aurangabad,Consumer,3,5240.11,20,12576.26,8244.65,4331.61,UPI
+ORD0047,2025-11-06,CUST037,Office,Office Chair,Aurangabad,Home Office,3,8739.81,15,22286.52,15220.18,7066.34,Credit Card
+ORD0132,2025-11-07,CUST008,Electronics,Tablet,Aurangabad,Consumer,1,23185.03,0,23185.03,17237.82,5947.21,Credit Card
+ORD0146,2025-11-11,CUST053,Accessories,Smart Watch,Aurangabad,Consumer,3,4743.51,5,13519.0,9485.87,4033.13,Cash on Delivery
+ORD0010,2025-11-12,CUST013,Accessories,Mouse,Aurangabad,Corporate,2,858.78,15,1459.93,925.2,534.73,Cash on Delivery
+ORD0079,2025-11-13,CUST008,Office,Monitor,Nashik,Home Office,4,12968.57,10,46686.85,35327.74,11359.11,Cash on Delivery
+ORD0249,2025-11-14,CUST065,Accessories,Keyboard,Nagpur,Corporate,3,1821.45,0,5464.35,3535.72,1928.63,Cash on Delivery
+ORD0049,2025-11-17,CUST034,Electronics,Tablet,Pune,Consumer,2,23036.76,15,39162.49,28549.35,10613.14,Cash on Delivery
+ORD0220,2025-11-18,CUST079,Accessories,Mouse,Pune,Corporate,2,817.71,5,1553.65,1019.28,534.37,Debit Card
+ORD0198,2025-11-23,CUST009,Home & Kitchen,Air Fryer,Nagpur,Corporate,1,6082.06,0,6082.06,4550.35,1531.71,Debit Card
+ORD0142,2025-11-24,CUST024,Home & Kitchen,Air Fryer,Mumbai,Corporate,3,6536.26,10,17647.9,13423.96,4223.94,UPI
+ORD0034,2025-11-27,CUST031,Home & Kitchen,Air Fryer,Aurangabad,Corporate,3,6071.32,20,14571.17,9519.58,5051.59,UPI
+ORD0260,2025-11-27,CUST015,Office,Printer,Mumbai,Home Office,1,11239.35,0,11239.35,8129.62,3109.73,Cash on Delivery
+ORD0155,2025-11-28,CUST066,Accessories,Power Bank,Mumbai,Consumer,4,1897.48,5,7210.42,4878.97,2331.45,Cash on Delivery
+ORD0277,2025-11-29,CUST059,Electronics,Tablet,Nashik,Consumer,2,22884.3,15,38903.31,26955.39,11947.92,Debit Card
+ORD0090,2025-11-30,CUST067,Home & Kitchen,Mixer,Pune,Consumer,4,4487.43,5,17052.23,13933.6,3118.63,Cash on Delivery
+ORD0261,2025-12-03,CUST061,Home & Kitchen,Air Fryer,Nagpur,Home Office,1,6157.61,0,6157.61,4889.09,1268.52,Credit Card
+ORD0035,2025-12-04,CUST051,Electronics,Tablet,Nashik,Consumer,1,22145.57,0,22145.57,14194.67,7950.9,Credit Card
+ORD0291,2025-12-04,CUST020,Accessories,Keyboard,Aurangabad,Home Office,1,1764.37,20,1411.5,1010.68,400.82,Credit Card
+ORD0077,2025-12-05,CUST079,Electronics,Tablet,Pune,Consumer,4,21815.34,0,87261.36,68187.25,19074.11,Credit Card
+ORD0080,2025-12-05,CUST038,Electronics,Headphones,Nashik,Corporate,1,2337.74,0,2337.74,1560.78,776.96,Debit Card
+ORD0050,2025-12-06,CUST009,Home & Kitchen,Air Fryer,Pune,Consumer,1,6875.56,15,5844.23,4047.24,1796.99,Debit Card
+ORD0118,2025-12-06,CUST062,Office,Printer,Nashik,Corporate,4,12023.32,10,43283.95,30512.06,12771.89,Credit Card
+ORD0022,2025-12-11,CUST073,Home & Kitchen,Mixer,Mumbai,Home Office,1,4758.04,15,4044.33,2925.11,1119.22,Cash on Delivery
+ORD0223,2025-12-13,CUST038,Electronics,Tablet,Mumbai,Corporate,1,22945.77,0,22945.77,14643.24,8302.53,Credit Card
+ORD0197,2025-12-15,CUST051,Home & Kitchen,Air Fryer,Nagpur,Home Office,4,6112.11,5,23226.02,14406.85,8819.17,Debit Card
+ORD0002,2025-12-16,CUST006,Accessories,Mouse,Mumbai,Home Office,4,886.59,10,3191.72,2505.71,686.01,Debit Card
+ORD0172,2025-12-17,CUST030,Home & Kitchen,Air Fryer,Nashik,Corporate,4,6628.35,15,22536.39,18464.37,4072.02,Cash on Delivery
+ORD0246,2025-12-17,CUST044,Office,Webcam,Nashik,Consumer,1,3083.24,0,3083.24,2187.31,895.93,UPI
+ORD0221,2025-12-21,CUST016,Electronics,Laptop,Pune,Consumer,2,57464.76,20,91943.62,60840.16,31103.46,Cash on Delivery
+ORD0003,2025-12-24,CUST060,Office,Webcam,Mumbai,Consumer,4,3260.06,20,10432.19,6770.48,3661.71,Credit Card
+ORD0185,2025-12-26,CUST017,Home & Kitchen,Vacuum Cleaner,Mumbai,Corporate,4,9804.79,0,39219.16,31974.71,7244.45,UPI
+ORD0074,2025-12-27,CUST042,Home & Kitchen,Vacuum Cleaner,Mumbai,Consumer,4,9206.12,20,29459.58,21470.51,7989.07,UPI
+ORD0290,2025-12-27,CUST012,Home & Kitchen,Mixer,Nashik,Corporate,2,4247.55,20,6796.08,4623.11,2172.97,UPI
+ORD0184,2025-12-29,CUST023,Electronics,Headphones,Nagpur,Consumer,3,2325.57,15,5930.2,3713.04,2217.16,UPI
+ORD0280,2025-12-30,CUST062,Home & Kitchen,Vacuum Cleaner,Nashik,Consumer,3,8324.29,0,24972.87,19023.26,5949.61,Cash on Delivery
+ORD0180,2025-12-31,CUST037,Office,Printer,Nagpur,Consumer,4,11505.07,0,46020.28,33148.83,12871.45,Debit Card
+ORD0106,2025-12-31,CUST039,Accessories,Mouse,Nagpur,Home Office,3,901.14,10,2433.08,1624.94,808.14,UPI
+ORD0112,2025-12-31,CUST052,Home & Kitchen,Air Fryer,Nagpur,Home Office,2,6652.79,15,11309.74,9226.66,2083.08,Credit Card
